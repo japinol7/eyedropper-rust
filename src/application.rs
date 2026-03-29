@@ -267,7 +267,7 @@ impl App {
         SearchProvider::new(self.clone(), search_provider_name, search_provider_path).await
     }
 
-    /// Setup global shortcuts.
+    /// Set up global shortcuts.
     ///
     /// A global shortcut can be used when the application is not focused.
     /// Uses the [Global Shortcuts portal](https://flatpak.github.io/xdg-desktop-portal/docs/doc-org.freedesktop.portal.GlobalShortcuts.html).
