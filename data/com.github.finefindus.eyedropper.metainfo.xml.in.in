@@ -47,6 +47,11 @@
   <url type="translate">https://github.com/FineFindus/eyedropper#translation</url>
   <content_rating type="oars-1.1" />
   <releases>
+    <release version="2.2.1" date="2026-03-29">
+      <description translatable="no">
+        <p>Fixes an issue with the italian translation</p>
+      </description>
+    </release>
     <release version="2.2.0" date="2026-03-18">
       <description translatable="no">
         <p>New features, fixed bugs and updates to modern GNOME styling:</p>
